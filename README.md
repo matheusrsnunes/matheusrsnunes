@@ -26,9 +26,13 @@
 
 ###
 
+- [Odds, Probabilidades Implícitas e Resultados Reais no Futebol Brasileiro](https://rpubs.com/mrsnunes/1404606): projeto em R que analisa se as odds da Bet365 para jogos do Campeonato Brasileiro refletem com precisão as probabilidades reais de vitória dos times mandantes. A partir da comparação entre probabilidades implícitas e resultados observados, o trabalho investiga a calibração do mercado de apostas e evidencia o papel da margem estrutural das casas.
+
 - [Classificação de falhas em máquinas](https://rpubs.com/mrsnunes/1206295): um breve projeto de classificação, com análise exploratória de dados e um deploy de um dashboard. [O dashboard feito pode ser acessado aqui](https://mrsnunes.shinyapps.io/predicaodefalha/).
 
-- [Predição de preço de imóveis no Distrito Federal](https://rpubs.com/mrsnunes/1205102): Um modelo feito parar prever o preço de imóveis no DF em 2024. Também há uma breve análise dos dados. A [predição pode ser feita aqui](https://mrsnunes.shinyapps.io/ImoveisDF/)
+- [Predição de preço de imóveis no Distrito Federal](https://rpubs.com/mrsnunes/1205102): um modelo de regressão feito parar prever o preço de imóveis no DF em 2024. Também há uma breve análise dos dados. A [predição pode ser feita aqui](https://mrsnunes.shinyapps.io/ImoveisDF/).
+
+- [População Mundial](https://github.com/matheusrsnunes/World-Population/blob/main/codigos/tratamento.ipynb): este projeto em Python realiza o tratamento e a preparação de um conjunto de dados sobre população mundial por país, incluindo variáveis como população ao longo do tempo, densidade populacional, área territorial e participação na população global. A análise explora padrões de distribuição populacional entre países e continentes, utilizando técnicas de limpeza, transformação e exploração de dados para gerar insights demográficos globais
 
 ###
 
@@ -40,21 +44,21 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="70" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
